@@ -1,0 +1,2 @@
+# DTDSample
+DiscordToDiaryのサンプル用のリポジトリです
